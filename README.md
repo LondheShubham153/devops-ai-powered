@@ -1,6 +1,6 @@
 # DevOps - Zero To Hero [AI powered]
 
-Check it out (here)[https://trainwithshubham.ai]
+Check it out [here](https://trainwithshubham.ai)
 
 ## Topics
 
