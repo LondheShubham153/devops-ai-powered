@@ -12,4 +12,6 @@ Check it out [here](https://trainwithshubham.ai)
 - Docker Fundamentals
 - Docker Advanced
 - Phase 1 MCQ exam
-- Mini Project 
+- Mini Project
+- GitHub Actions
+- Jenkins 
