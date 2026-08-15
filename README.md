@@ -24,4 +24,6 @@ Note: Always do a day of Assignment from #90DaysOfDevOps
 - Phase 2 MCQ Exam
 - Mini Project
 - Observability
+- Job Prep
  
+- [TBD] hackathon
