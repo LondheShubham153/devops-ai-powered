@@ -21,4 +21,5 @@ Note: Always do a day of Assignment from #90DaysOfDevOps
 - AWS
 - Terraform 
 - Ansible
+- Observability
  
