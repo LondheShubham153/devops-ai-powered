@@ -14,4 +14,5 @@ Check it out [here](https://trainwithshubham.ai)
 - Phase 1 MCQ exam
 - Mini Project
 - GitHub Actions
-- Jenkins 
+- Jenkins
+- Kubernetes 
