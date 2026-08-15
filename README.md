@@ -17,4 +17,6 @@ Note: Always do a day of Assignment from #90DaysOfDevOps
 - Mini Project
 - GitHub Actions
 - Jenkins
-- Kubernetes 
+- Kubernetes
+- AWS
+ 
