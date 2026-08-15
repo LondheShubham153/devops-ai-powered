@@ -2,6 +2,8 @@
 
 Check it out [here](https://trainwithshubham.ai)
 
+Note: Always do a day of Assignment from #90DaysOfDevOps
+
 ## Topics
 
 - Introduction to DevOps & Cloud
