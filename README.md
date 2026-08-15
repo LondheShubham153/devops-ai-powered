@@ -8,3 +8,4 @@ Check it out [here](https://trainwithshubham.ai)
 - Linux For DevOps
 - Computer Networking
 - Git & GitHub Fundamentals
+- GitHub Advanced
