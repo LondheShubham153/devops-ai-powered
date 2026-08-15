@@ -2,6 +2,8 @@
 
 Check it out [here](https://trainwithshubham.ai)
 
+Note: Always do a day of Assignment from #90DaysOfDevOps
+
 ## Topics
 
 - Introduction to DevOps & Cloud
@@ -15,4 +17,8 @@ Check it out [here](https://trainwithshubham.ai)
 - Mini Project
 - GitHub Actions
 - Jenkins
-- Kubernetes 
+- Kubernetes
+- AWS
+- Terraform 
+- Ansible
+ 
